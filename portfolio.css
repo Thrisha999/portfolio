@@ -1,0 +1,315 @@
+body{
+    background-image: url(aesthetic6.jpg);
+    background-size:cover;
+}
+#content{
+    margin-left: 800px;
+    position: relative;
+    top:150px;
+}
+.h1{
+    font-family:Arial, Helvetica, sans-serif
+    font-size: 50px;
+}
+#navbar{
+    height:60px;
+    background-color: rgb(27, 23, 23);
+    /* border:1px solid #333; */
+    padding:0;
+    margin: 0;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#n5{
+    position: relative;
+    top:17px;
+    left:1100px;
+    color:white
+}
+#n4{
+    position: relative;
+    top:17px;
+    left:1000px;
+    color:white
+}
+#n3{
+    position: relative;
+    top:17px;
+    left:900px;
+    color:white
+}
+#n2{
+    position: relative;
+    top:17px;
+    left:800px;
+    color:white
+}
+#n1{
+    position: relative;
+    top:17px;
+    left:700px;
+    color:white
+}
+#linkedin{
+    width:50px;
+    height:40px;
+    font-size: 30px;
+    position: relative;
+    top:150px;
+    left:850px;
+    display: inline-block;
+}
+#i1{
+    font-size: 30px;
+    position: relative;
+    top:117px;
+    left:900px;
+    display: inline-block;
+}
+#i2{
+    font-size: 30px;
+    position: relative;
+    top:85px;
+    left:965px;
+    display: inline-block;
+}
+#i3{
+    font-size: 30px;
+    position: relative;
+    top:48px;
+    left:1030px;
+    display: inline-block;
+}
+#b2{
+    background-image: url(bla.jpg);
+    background-size: cover;
+}
+#myimage{
+    position: absolute;
+    left:900px;
+    display: inline-block;
+    top:10px;
+    bottom: 20px;
+    border-radius: 15px;
+}
+#about{
+    display: inline-block;
+    position: relative;
+    top:60px;
+    width: 800px;
+    height: 300px; 
+}
+#des{
+    width: 1000px;
+    text-align: justify;
+    /* margin-left: 25px; */
+    line-height: normal;
+    padding: 25px;
+}
+#b3{
+    background-image: url(bla.jpg);
+}
+#img2{
+    position: relative;
+    display: inline-block;
+    left:20px;
+    top:40px;
+}
+#flex{
+    display: inline-block;
+    position: relative;
+    left:850px;
+    bottom: 400px;
+}
+#flex1{
+    display: inline-block;
+    position: relative;
+    left: 480px;
+    bottom: 350px;
+}
+#s1{
+    display: inline-block;
+    position: relative;
+    left: 580px;
+    bottom: 385px; 
+    font-size: 20px;
+} 
+#flex2{
+    display: inline-block;
+    position: relative;
+    left: 1000px;
+    bottom: 688px;
+}
+#ik{
+    display: inline-block;
+    position: relative;
+    left: 980px;
+    bottom: 715px; 
+    font-size: 20px;
+}
+#flex3{
+    display: inline-block;
+    position: relative;
+    left: 820px;
+    bottom: 600px;
+}
+#hr1{
+    position: relative;
+    bottom: 600px;
+    width: 40%;
+    left: 240px;
+} 
+#ex{
+    position: relative;
+    top:70px;
+}
+#exp{
+    width: 600px;
+    height: 300px;
+    position: relative;
+    bottom: 610px;
+    left:650px;
+    font-size: 20px;
+}
+#img3{
+    position: relative;
+    display: inline-block;
+    right:470px;
+    top:650px; 
+}
+#b4{
+    background-image: url(bla.jpg);
+    background-size: cover;
+}
+.project-images ul{
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 1100px;
+    position: absolute;
+    top: 155px;
+    right: 125px;
+}
+.project-images ul li img{
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.project-title{
+    font-size: 28px;
+    font-weight: 300;
+    position: relative;
+    top:10px;
+}
+.project-description{
+    font-size: 20px;
+    text-align: justify;
+    width: 900px;
+    line-height: normal;
+    padding: 15px;
+    display: inline-block;
+    position: relative;
+    top:10px;
+}
+.project-title1{
+    font-size: 28px;
+    font-weight: 300;
+    position: relative;
+    top:40px;
+}
+.project-description1{
+    font-size: 20px;
+    text-align: justify;
+    width: 900px;
+    line-height: normal;
+    padding: 15px;
+    display: inline-block;
+    position: relative;
+    top:40px;
+}
+.project-title2{
+    font-size: 28px;
+    font-weight: 300;
+    position: relative;
+    top:80px;
+}
+.project-description2{
+    font-size: 20px;
+    text-align: justify;
+    width: 900px;
+    line-height: normal;
+    padding: 15px;
+    display: inline-block;
+    position: relative;
+    top:80px;
+}
+.project-title3{
+    font-size: 28px;
+    font-weight: 300;
+    position: relative;
+    top:120px;
+}
+.project-description3{
+    font-size: 20px;
+    text-align: justify;
+    width: 900px;
+    line-height: normal;
+    padding: 15px;
+    display: inline-block;
+    position: relative;
+    top:120px;
+}
+#b5{
+    background-image: url(bla.jpg);
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+    top: 450px;
+}
+#mail{
+    position: relative;
+    top:40px;
+    left: 420px;
+}
+#mail2{
+    position: relative;
+    bottom: 20px;
+    left: 480px;
+}
+#phone{
+    position: relative;
+    top:10px;
+    left: 420px;
+}
+#phone2{
+    position: relative;
+    bottom: 50px;
+    left: 483px;
+}
+#what{
+    position: relative;
+    top:-15px;
+    left: 420px;
+}
+#what2{
+    position: relative;
+    bottom: 75px;
+    left: 483px;
+}
+#ins{
+    position: relative;
+    top:-40px;
+    left: 420px;
+}
+#ins2{
+    position: relative;
+    bottom: 105px;
+    left: 483px;
+}
